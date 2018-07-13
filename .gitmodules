@@ -1,0 +1,15 @@
+[submodule "nlp-service"]
+	path = nlp-service
+	url = https://gitlab.com/insai-labs/insai-nlp-service
+[submodule "collect-service"]
+	path = collect-service
+	url = https://gitlab.com/insai-labs/insai-collect-service
+[submodule "news-service"]
+	path = news-service
+	url = https://gitlab.com/insai-labs/insai-news-service
+[submodule "client-web"]
+	path = client-web
+	url = https://gitlab.com/insai-labs/insai-client-web
+[submodule "headset-service"]
+	path = headset-service
+	url = https://gitlab.com/insai-labs/insai-headset-service
